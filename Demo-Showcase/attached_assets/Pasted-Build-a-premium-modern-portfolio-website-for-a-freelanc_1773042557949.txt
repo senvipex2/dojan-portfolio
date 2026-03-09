@@ -1,0 +1,319 @@
+Build a **premium modern portfolio website** for a freelance web developer.
+
+Developer Name: **Dojan Carvalho**
+
+Purpose:
+The website should showcase my services building professional websites for **businesses, brands, and companies that want to establish an online presence**.
+
+The site must look **very modern, premium, and visually impressive**, similar to high-end developer portfolios.
+
+---
+
+# Design Requirements
+
+* Dark theme with glowing accents
+* Modern UI with **glassmorphism and soft gradients**
+* Smooth animations and transitions
+* Scroll animations (fade-in, slide-in)
+* Animated website mockups or looping videos of attractive website designs
+* Clean and professional typography
+* Fully responsive for desktop and mobile
+* Smooth scrolling between sections
+* Subtle hover animations on buttons and cards
+* Modern glowing buttons
+* Premium loading animation when the site starts
+
+---
+
+# Navigation Bar
+
+Sticky navigation with links to:
+
+* Home
+* About
+* Portfolio
+* Process
+* Benefits
+* Pricing
+* Contact
+
+Include a **"Hire Me" button** in the navbar.
+
+---
+
+# 1. Hero Section (Landing Section)
+
+Large modern hero section with:
+
+Title:
+**Dojan Carvalho**
+
+Subtitle:
+"I Build Professional Websites for Businesses and Brands"
+
+Short description explaining I help businesses go online with modern and professional websites.
+
+Buttons:
+
+* View My Work
+* Contact Me
+
+Background should include:
+
+* animated website mockups
+* subtle motion graphics
+* looping website preview videos.
+
+---
+
+# 2. About Section
+
+Professional introduction explaining:
+
+* I create modern, fast, and responsive websites
+* I help brands and businesses establish their online presence
+* My focus is professional design, performance, and usability
+
+Include a **profile image placeholder**.
+
+---
+
+# 3. Portfolio Section
+
+Create a **portfolio showcase grid** displaying sample website projects.
+
+Each project card should include:
+
+* Website preview image
+* Project title
+* Short description
+* Hover animation
+* "View Demo" button
+
+Use placeholder images of modern business websites.
+
+---
+
+# 4. Case Study Section (Trust Builder)
+
+Create 2–3 example **project case studies** showing how I helped businesses.
+
+Each case study should include:
+
+* Client type (restaurant, brand, online store, etc.)
+* Problem they had
+* Solution I provided
+* Result (more customers, better online presence, etc.)
+
+Display these in a professional layout.
+
+---
+
+# 5. My Work Process (Trust Builder)
+
+Create a section explaining **how I work with clients**.
+
+Use step cards with icons:
+
+Step 1 – Consultation
+Understanding the client's needs and goals.
+
+Step 2 – Design
+Creating a modern and attractive website layout.
+
+Step 3 – Development
+Building the fast and responsive website.
+
+Step 4 – Launch
+Publishing the website online for the business.
+
+Step 5 – Support
+Providing maintenance and updates.
+
+---
+
+# 6. Benefits Section
+
+Create animated cards showing why clients should work with me.
+
+Benefits include:
+
+* Affordable Pricing
+* Professional Website Design
+* Fast Delivery
+* Mobile-Friendly Responsive Websites
+* Clean and Modern UI
+* Reliable Support
+
+Each benefit should have an icon and hover animation.
+
+---
+
+# 7. Pricing Section
+
+Create **3 pricing cards with glowing hover effects.**
+
+Plan 1:
+Rookie Site
+Price: ₹5000
+Monthly Maintenance: ₹1000
+
+Plan 2:
+Multi-Web
+Price: ₹8000
+Monthly Maintenance: ₹1000
+
+Plan 3:
+Professional Site
+Price: ₹10,000
+Monthly Maintenance: ₹1000
+
+Each card should include:
+
+* plan title
+* price
+* description
+* "Get Started" button linking to contact page.
+
+---
+
+# 8. Guarantee Section (Trust Builder)
+
+Add a section called **"Why You Can Trust Me"**.
+
+Include guarantees such as:
+
+* Professional and modern design
+* Mobile responsive websites
+* Fast loading performance
+* Ongoing support and maintenance
+* Affordable pricing compared to agencies
+
+Display these as icons or badges.
+
+---
+
+# 9. Testimonials Section
+
+Create a section with **example testimonials**.
+
+Each testimonial should include:
+
+* client name
+* star rating
+* short positive review
+* profile picture placeholder.
+
+---
+
+# 10. Contact Page
+
+Create a **modern contact page** with a contact form.
+
+Form fields:
+
+* Name
+* Gmail
+* Message / Description
+
+Submit Button:
+"Send Message"
+
+When submitted, the form should send the message to:
+
+Email: **[dojanschool@gmail.com](mailto:dojanschool@gmail.com)**
+
+Use:
+
+* Node.js
+* Express
+* Nodemailer (or EmailJS)
+
+The email should include:
+
+* sender name
+* sender email
+* message content.
+
+---
+
+# 11. Social Contact Section
+
+Add clickable icons linking to my contacts.
+
+WhatsApp
+Number: 9960951026
+Link:
+https://wa.me/919960951026
+
+Instagram
+Username: carvalhodojan
+Link:
+https://instagram.com/carvalhodojan
+
+Icons should open the correct pages.
+
+---
+
+# 12. Footer
+
+Professional footer including:
+
+* copyright text
+* quick navigation links
+* social icons
+* contact email.
+
+---
+
+# Technical Requirements
+
+Use modern web technologies.
+
+Frontend:
+
+* HTML
+* CSS or TailwindCSS
+* JavaScript
+
+Animations:
+
+* GSAP or Framer Motion
+* Scroll animations
+
+Backend:
+
+* Node.js
+* Express
+* Nodemailer for email sending.
+
+---
+
+# Folder Structure
+
+Organize the project clearly.
+
+public
+css
+js
+images
+
+server
+
+index.html
+server.js
+
+---
+
+# Extra Premium Features
+
+Add the following:
+
+* animated counters (projects completed, clients served)
+* 3D animated hero section
+* website mockup carousel
+* smooth scrolling
+* glowing hover effects
+* modern UI components.
+
+Also include instructions explaining **how to run the website in Replit.**
